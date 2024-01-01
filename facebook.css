@@ -1,0 +1,162 @@
+.body
+{
+    background-color: #ebedf0;
+}
+
+.main
+{
+    display: flex;
+    flex-direction:row ;
+    height: 700px;
+    width: 1000px;
+    margin-top: 200px;
+    justify-content: space-around;
+    margin-left: 150px; 
+}
+.rightside
+{
+display:inline-block;
+}
+
+.form
+{
+    /* height: ; */
+    /* width: 395px; */
+    border-radius: 10px;
+    background-color: white;
+    display: inline-block;
+    /* border-radius: 6px; */
+    display: flex;
+    flex-direction: column;  
+    padding-top: 6px;
+}
+
+.first-placeholder
+{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-top: 12px; 
+    margin-bottom: 6px; 
+    align-self: center;
+    border: 1px solid #dddfe2;   
+}
+
+.placeholder1
+{
+ 
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-top: 6px; 
+    margin-bottom: 6px; 
+    align-self: center;
+    border: 1px solid #dddfe2;
+
+}
+
+.second-placeholder
+{
+ 
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-top: 6px; 
+    margin-bottom: 6px; 
+    align-self: center;
+    border: 1px solid #dddfe2;
+
+}
+
+.login
+{
+    font-size: 20px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    background-color:#1877f2;
+    color: white;
+    border: none;
+    margin-top: 6px; 
+    margin-bottom: 6px; 
+    align-self: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.Forgotten-password 
+{
+    text-align:center;
+    margin-top: 6px; 
+    margin-bottom: 6px; 
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+ 
+}
+
+.line
+{
+    /* margin: 10px 10px;
+    margin-bottom: 18px; */
+    margin: 10px 10px ;
+    
+    
+
+}
+
+.Create-new-account
+{
+    text-align:center;
+    /* padding: 0px 16px; */
+    width: 200px;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    background-color:#42b72a;
+    color: white;
+    align-self: center;
+    margin-top: 20px;
+    font-weight:bold;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    
+    
+    
+    
+ 
+    
+
+} 
+.Create-a-Page
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    text-decoration: none;
+       
+}
+
+.Facebook-helps
+{
+    font-size: 28px;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    margin-left: 20px;
+}
+.imges
+{
+    height: 100px;
+    width: 500px;
+    
+}
+
